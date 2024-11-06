@@ -84,7 +84,7 @@ View my notebook with detailed steps:
 
 ## Results
 ![Visualization of Trending Skills](3_Project/images/trending_DA_skills.png)
-*Line graph visualizing the trending top skills for data analysts in the US for 2023*
+
 
 ## Insights
 - SQL remains the greatest demanded skill for data analysts, although it has experienced a gradual decline in demand throuhgout the year.
@@ -104,7 +104,6 @@ View my notebook with detailed steps:
 
 ## Results
 ![Visualization of Salary Distributions](3_Project/images/salary_distributions.png)
-*Box plot visualizing salary distributions for the top 6 data job titles for 2023*
 
 ## Insights
 - Senior data scientists and senior data enginners roles offer the greatest median salaries amongst the job titles, reflecting senior level compensation and experience. Conversely, data analyst and senior data analyst roles have the lowest median salaries displayed, indicating their entry-level/mid-level nature within data.
@@ -116,7 +115,6 @@ View my notebook with detailed steps:
 ## Results
 
 ![Visualization of skills with the highest median salary](3_Project/images/highest_paid_skills.png)
-*Bar plot visualizing the highest paid skills for data analysts in the US*
 
 ## Insights
 - dplyr has the greatest median salary, followed  by bitbucket and gitlab. This suggests that proficiency in these specific tools or technologies can increase earning potential for Data Analysts, likely due to the specialized nature of these tools. 
@@ -134,7 +132,6 @@ View my notebook with detailed steps:
 
 ## Results
 ![Visualization of optimal skills for Data Analysts](3_Project/images/optimal_DA_skills.png)
-*Scatter plot visualizing the most optimal 13 skills (highest paying and high demand) for data analyst roles in the US*
 
 ## Insights
 - The scatter plot shows that the majority of programming skills (coloured in blue) tend to cluster at higher salaries compared to other technology skill types, with Python and SQL located around the top-right region of the plot. This implies that programming knowledge can lead to greater salary benefits
